@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imRaj
-- 👀 I’m interested in java
-- 🌱 I’m currently learning flutter, keystonejs
+- 👋 Hi, I’m @imRaj25
+- I'm interested in java.
+- 🌱 I’m currently learning flutter, nodejs, .NET, mysql, mongodb.
 - 📫 How to reach me rajeshbala2309@gmail.com
